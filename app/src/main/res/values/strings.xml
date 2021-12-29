@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_notes">Notes</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="todo_btn">TODO</string>
+    <string name="logoImg">TODO</string>
+    <string name="logoTitle">Notes</string>
+    <string name="actionbarleft">actionBarLeft</string>
+    <string name="actionbarright">actionBarRight</string>
+    <string name="add_btn">TODO</string>
+    <string name="t_tulo">Título</string>
+    <string name="anota_es">Anotações</string>
+    <string name="save_btn">TODO</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="edit_notes">Edit Notes</string>
+    <string name="delete">Delete</string>
+
+</resources>
